@@ -1,2 +1,2 @@
 # trashforums2.0
-hot garbage
+a shitty side project, dont expect much!
